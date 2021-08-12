@@ -1,0 +1,4 @@
+#Mon Aug 09 22:03:27 GMT 2021
+base.0=/home/redeemer/Desktop/flutter/decisions/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
