@@ -1,14 +1,3 @@
-#!/bin/sh
-# This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=/home/redeemer/snap/flutter/common/flutter"
-export "FLUTTER_APPLICATION_PATH=/home/redeemer/Desktop/flutter/decisions"
-export "COCOAPODS_PARALLEL_CODE_SIGN=true"
-export "FLUTTER_TARGET=lib/main.dart"
-export "FLUTTER_BUILD_DIR=build"
-export "SYMROOT=${SOURCE_ROOT}/../build/ios"
-export "FLUTTER_BUILD_NAME=1.0.0"
-export "FLUTTER_BUILD_NUMBER=1"
-export "DART_OBFUSCATION=false"
-export "TRACK_WIDGET_CREATION=false"
-export "TREE_SHAKE_ICONS=false"
-export "PACKAGE_CONFIG=.packages"
+version https://git-lfs.github.com/spec/v1
+oid sha256:0612aa8118561081c9fad5136192e7344d0a47eef7e264c09185e5603a74ec82
+size 581

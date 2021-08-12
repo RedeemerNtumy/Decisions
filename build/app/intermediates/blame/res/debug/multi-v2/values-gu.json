@@ -1,19 +1,3 @@
-{
-    "logs": [
-        {
-            "outputFile": "/home/redeemer/Desktop/flutter/decisions/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml",
-            "map": [
-                {
-                    "source": "/home/redeemer/.gradle/caches/transforms-2/files-2.1/e9dab9c67c1ee3668e0bbf86c6d8cbd8/core-1.1.0/res/values-gu/values-gu.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        }
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:32f556657f94be24e7b20931cc67a55ec5e9ee4215fc370aacca88e6d08b96af
+size 708

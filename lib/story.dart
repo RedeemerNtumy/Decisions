@@ -1,5 +1,3 @@
-//TODO: Step 2 - Create a new class called Story.
-
-//TODO: Step 3 - Create 3 properties for this class, A. storyTitle to store the story text. B. choice1 to store the text for choice 1, C. choice2 to store the text for choice 2.
-
-//TODO: Step 4 - Create a Constructor for this class to be able to initialise the properties created in step 3.
+version https://git-lfs.github.com/spec/v1
+oid sha256:124aba0898c7c1692f5aed90702bed5123418ce7f592e8f2b33ff71470ee3e3d
+size 342

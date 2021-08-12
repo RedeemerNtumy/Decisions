@@ -1,23 +1,3 @@
-package io.flutter.plugins;
-
-import io.flutter.plugin.common.PluginRegistry;
-
-/**
- * Generated file. Do not edit.
- */
-public final class GeneratedPluginRegistrant {
-  public static void registerWith(PluginRegistry registry) {
-    if (alreadyRegisteredWith(registry)) {
-      return;
-    }
-  }
-
-  private static boolean alreadyRegisteredWith(PluginRegistry registry) {
-    final String key = GeneratedPluginRegistrant.class.getCanonicalName();
-    if (registry.hasPlugin(key)) {
-      return true;
-    }
-    registry.registrarFor(key);
-    return false;
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:35e198b50f5794012fd3f8f66b4290bd0f3e6177c3ddd385c82a5f2f2f4eda43
+size 559

@@ -1,2 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/redeemer/Desktop/flutter/decisions/android/app/src/main/jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/redeemer/Desktop/flutter/decisions/android/app/src/debug/jniLibs"/></dataSet></merger>
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec8932c69e8870fb1bbe71cf10d487bb23fe50386bf7dc2b666c25c02cc16862
+size 494

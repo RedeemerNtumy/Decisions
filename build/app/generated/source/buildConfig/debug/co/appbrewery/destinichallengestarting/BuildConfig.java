@@ -1,13 +1,3 @@
-/**
- * Automatically generated file. DO NOT MODIFY
- */
-package co.appbrewery.destinichallengestarting;
-
-public final class BuildConfig {
-  public static final boolean DEBUG = Boolean.parseBoolean("true");
-  public static final String APPLICATION_ID = "co.appbrewery.destinichallengestarting";
-  public static final String BUILD_TYPE = "debug";
-  public static final String FLAVOR = "";
-  public static final int VERSION_CODE = 1;
-  public static final String VERSION_NAME = "1.0.0";
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a7f4e258024dbeca2fff7d721812a53bb084655d4dc0113c2eea7cc9f0fe26a
+size 485

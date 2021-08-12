@@ -1,1 +1,3 @@
-[{"outputType":{"type":"PROCESSED_RES"},"apkData":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.0.0","enabled":true,"outputFile":"app-debug.apk","fullName":"debug","baseName":"debug"},"path":"resources-debug.ap_","properties":{"packageId":"co.appbrewery.destinichallengestarting","split":"","minSdkVersion":"16"}}]
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4f6969939ce34b3a68fa9d96307558d6cf833624e428e954327fa61b7183d91
+size 328

@@ -1,21 +1,3 @@
-name: decisions
-description: A new Flutter application.
-
-version: 1.0.0+1
-
-environment:
-  sdk: ">=2.1.0 <3.0.0"
-
-dependencies:
-  flutter:
-    sdk: flutter
-  cupertino_icons: ^0.1.2
-
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
-
-flutter:
-  uses-material-design: true
-  assets:
-  - images/
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ea9f8050fc03969d52f8ea344c6e008cdfdfccd566e764e4f4fd39635795520
+size 294
